@@ -28,6 +28,8 @@
      	  <groupId>com.sura.football</groupId>
 		  <artifactId>FootballApp</artifactId>
 		  <version>0.0.1-SNAPSHOT</version>
+		  <scope>system</scope>
+		  <systemPath>${basedir}\lib\FootballApp-0.0.1-SNAPSHOT.jar</systemPath>
 		</dependency>
     
     <dependency>
